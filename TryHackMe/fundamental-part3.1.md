@@ -4,7 +4,7 @@ in this file we will showcase some useful uitilities and applications that you a
 going to advanced your linux-fu skills by learning about automation , package management , and service/application logging 
 
 Everything here reflects what I studied, tested, and verified myself.
----
+
 ## First :
 **deploy linux machine and remotly connect using ssh**
 ## Second (Termianl Text Editors ):
